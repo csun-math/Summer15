@@ -1,2 +1,3 @@
 # Summer15
-# There are two sub folders
+# This repository is for files for summer 2015
+#
